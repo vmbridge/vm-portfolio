@@ -41,6 +41,7 @@ body{
   padding:16px 2px 14px; border-bottom:1px solid var(--line);
   font-size:13px; color:var(--bright); letter-spacing:.02em; flex:none; }
 .bar .dim{ color:var(--muted) }
+.brand-logo{ height:22px; vertical-align:middle; margin-right:9px }
 .lang{ display:inline-flex; align-items:center; gap:3px }
 .lang button{ font:inherit; font-size:12px; background:transparent; border:none; cursor:pointer;
   color:var(--muted); padding:0 2px; transition:color .15s }
